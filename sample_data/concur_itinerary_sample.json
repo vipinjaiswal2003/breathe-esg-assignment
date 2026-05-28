@@ -1,0 +1,81 @@
+[
+  {
+    "id": "TRIP-2024-010",
+    "BookedBy": "EMP-2001",
+    "Segments": {
+      "Air": [
+        {
+          "StartCityCode": "BOM",
+          "EndCityCode": "DEL",
+          "Cabin": "E",
+          "CarrierCode": "6E",
+          "StartDate": "2024-08-05T09:30:00",
+          "Miles": 705
+        }
+      ],
+      "Hotel": [
+        {
+          "CityName": "New Delhi",
+          "CountryCode": "IND",
+          "StartDate": "2024-08-05",
+          "EndDate": "2024-08-07",
+          "Nights": 2
+        }
+      ]
+    }
+  },
+  {
+    "id": "TRIP-2024-011",
+    "BookedBy": "EMP-2002",
+    "Segments": {
+      "Air": [
+        {
+          "StartCityCode": "DEL",
+          "EndCityCode": "SIN",
+          "Cabin": "B",
+          "CarrierCode": "AI",
+          "StartDate": "2024-08-12T23:15:00"
+        }
+      ],
+      "Hotel": [
+        {
+          "CityName": "Singapore",
+          "CountryCode": "SGP",
+          "StartDate": "2024-08-13",
+          "EndDate": "2024-08-16",
+          "Nights": 3
+        }
+      ],
+      "Car": [
+        {
+          "CarClass": "SUV",
+          "StartDate": "2024-08-13",
+          "FuelType": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "TRIP-2024-012",
+    "BookedBy": "EMP-2003",
+    "Segments": {
+      "Air": [
+        {
+          "StartCityCode": "BLR",
+          "EndCityCode": "FRA",
+          "Cabin": "",
+          "CarrierCode": "LH",
+          "StartDate": "2024-08-20T02:00:00"
+        }
+      ],
+      "Rail": [
+        {
+          "StartCityCode": "FRA",
+          "EndCityCode": "MUC",
+          "Distance": 400,
+          "StartDate": "2024-08-22"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,6 @@
+account_number,meter_number,service_address,rate_schedule,bill_start_date,bill_end_date,bill_days,consumption_kwh,demand_kw,meter_multiplier,reading_type,total_charge
+ACCT-TP-2001,MTR-101,Plot 12 MIDC Mumbai,HT-1,01/07/2024,31/07/2024,30,45600,120,1.0,actual,387600
+ACCT-TP-2002,MTR-102,Block C Okhla Delhi,HT-2,2024-06-28,2024-07-27,29,32100,85,1.0,actual,272850
+ACCT-TP-2003,MTR-103,Unit 5 Electronic City Bangalore,LT-5,07/05/2024,07/07/2024,61,12400,,1.0,estimated,99200
+ACCT-TP-2001,MTR-101,Plot 12 MIDC Mumbai,HT-1,01/08/2024,31/08/2024,30,48200,128,1.0,actual,409700
+ACCT-TP-2004,MTR-104,Warehouse 9 Peenya Bangalore,HT-1,2024-07-01,2024-07-31,30,68000,200,40,actual,612000
